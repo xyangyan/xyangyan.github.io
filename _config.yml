@@ -21,7 +21,7 @@ repository               : "xyangyan/xyangyan.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "images/xyy.png"
   name             : "Yangyan Xu"
   pronouns         : # example: "she/her"  
   bio              : "PhD at Institute of Information Engineering, CAS"

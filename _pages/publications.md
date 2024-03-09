@@ -3,9 +3,7 @@ title: "Publications ([Google Scholar Profile](https://scholar.google.com/citati
 permalink: /publications/
 author_profile: true
 ---
-
 ## 2023
-
 * A Contrastive Self-distillation BERT with Kernel Alignment-Based Inference. 
 [[pdf]](https://www.researchgate.net/publication/372006456_A_Contrastive_Self-distillation_BERT_with_Kernel_Alignment-Based_Inference)
 [[code]](https://github.com/xyangyan/CsdBERT) <br>

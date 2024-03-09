@@ -28,6 +28,9 @@ My research focuses on model compression and acceleration, specifically in the c
 * UCAS Merit Student, 2022~2023.
 * UCAS Merit Student, 2021~2022.
 
+## Teaching
+* Machine Learning, UCAS Teaching Assistant.
+* Pattern Matching and Information Filtering, UCAS Teaching Assistant.
 
 ## Academic Service
 * Reviewers of Conferences: ICASSP 2024.

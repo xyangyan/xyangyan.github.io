@@ -5,4 +5,5 @@ permalink: /CountNum/
 author_profile: true
 ---
 
-Have a test.
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+<span id="busuanzi_container_site_pv">本站总访问量<span id="busuanzi_value_site_pv"></span>次</span>

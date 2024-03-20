@@ -24,13 +24,13 @@ My research focuses on model compression and acceleration, specifically in the c
 
 
 ## Honors and Awards
-* UCAS Graduate Study Scholarship First Prize, 2022.
-* UCAS Merit Student, 2022~2023.
-* UCAS Merit Student, 2021~2022.
+* PhD Graduate Study Scholarship First Prize, UCAS, 2022.
+* Merit Student, UCAS, 2022~2023.
+* Merit Student, UCAS, 2021~2022.
 
 ## Teaching
-* Machine Learning, UCAS Teaching Assistant.
-* Pattern Matching and Information Filtering, UCAS Teaching Assistant.
+* Machine Learning, Teaching Assistant, UCAS.
+* Pattern Matching and Information Filtering, Teaching Assistant, UCAS.
 
 ## Academic Service
 * Reviewers of Conferences: ICASSP 2024.

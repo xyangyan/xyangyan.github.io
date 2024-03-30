@@ -6,6 +6,15 @@ redirect_from:
   - /about.html
 ---
 
+{% if site.google_scholar_stats_use_cdn %}
+{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
+{% else %}
+{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
+{% endif %}
+{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+
+<span class='anchor' id='about-me'></span>
+
 I am a PhD student at the Institute of Information Engineering, Chinese Academy of Sciences (CAS), specializing in the research of large language models (LLMs). I am expected to graduate in July 2025.
 
 My research focuses on model compression and acceleration, specifically in the context of LLMs. I am interested in utilizing techniques like quantization, knowledge distillation, and pruning to improve computational efficiency and performance of LLMs. My ultimate goal is to achieve efficient language models.

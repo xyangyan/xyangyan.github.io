@@ -11,6 +11,10 @@ I am a PhD student at the Institute of Information Engineering, Chinese Academy 
 My research focuses on model compression and acceleration, specifically in the context of LLMs. I am interested in utilizing techniques like quantization, knowledge distillation, and pruning to improve computational efficiency and performance of LLMs. My ultimate goal is to achieve efficient language models.
 
 
+# 🔥 News
+- *2024.03.30*: &nbsp;🎉🎉 Feeling tired and sleepy, it's time for a relaxing moment. ☞[FunAI](https://funai.vip)
+
+
 ## 📝 Selected Papers [[Full List](https://xyangyan.github.io/publications/)] [[Google Scholar](https://scholar.google.com/citations?user=gDJkRzwAAAAJ&hl)] 
 * A Contrastive Self-distillation BERT with Kernel Alignment-Based Inference. 
 [[pdf]](https://www.researchgate.net/publication/372006456_A_Contrastive_Self-distillation_BERT_with_Kernel_Alignment-Based_Inference)

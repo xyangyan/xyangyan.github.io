@@ -1,10 +1,21 @@
 ---
 permalink: /
+title: ""
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+{% if site.google_scholar_stats_use_cdn %}
+{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
+{% else %}
+{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
+{% endif %}
+{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+
+<span class='anchor' id='about-me'></span>
 
 I am a PhD student at the [Institute of Information Engineering](http://www.iie.ac.cn/), [Chinese Academy of Sciences (CAS)](https://www.cas.cn/), specializing in the research of large language models (LLMs). I am expected to graduate in July 2025.
 

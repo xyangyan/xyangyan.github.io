@@ -28,17 +28,6 @@ A Contrastive Self-distillation BERT with Kernel Alignment-Based Inference
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/arch-ICCS2023.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[TempCompass: Do Video LLMs Really Understand Videos?](https://arxiv.org/pdf/2403.00476.pdf)
-
-**Yuanxin Liu**\*, Shicheng Li*, Yi Liu, Yuxiang Wang, Shuhuai Ren, Lei Li, Sishuo Chen, Xu Sun, Lu Hou
-
-[**Project**](https://llyx97.github.io/tempcompass/) | [**Paper**](https://arxiv.org/abs/2403.00476) | [**Code**](https://github.com/llyx97/TempCompass)
-</div>
-</div>
-
 
 * MetaBERT: Collaborative Meta-Learning for Accelerating BERT Inference.
 [[pdf]](https://www.researchgate.net/publication/371825485_MetaBERT_Collaborative_Meta-Learning_for_Accelerating_BERT_Inference)

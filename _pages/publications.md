@@ -3,6 +3,14 @@ title: "Publications ([Google Scholar Profile](https://scholar.google.com/citati
 permalink: /publications/
 author_profile: true
 ---
+
+## 2024
+* Data-Efficient Knowledge Distillation with Teacher Assistant-Based Dynamic Objective Alignment.
+[[pdf]](https://github.com/xyangyan/DeKD.git)
+[[code]](https://github.com/xyangyan/DeKD.git) <br>
+<i>International Conference on Computational Science </i> (**ICCS**), 2024. Preprint. <b>IIE-B Conference</b>.
+
+
 ## 2023
 * A Contrastive Self-distillation BERT with Kernel Alignment-Based Inference. 
 [[pdf]](https://www.researchgate.net/publication/372006456_A_Contrastive_Self-distillation_BERT_with_Kernel_Alignment-Based_Inference)

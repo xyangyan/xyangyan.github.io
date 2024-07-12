@@ -19,10 +19,15 @@ My research focuses on model compression and acceleration, specifically in the c
 
 ## 📝 Selected Papers [[Full List](https://xyangyan.github.io/publications/)] [[Google Scholar](https://scholar.google.com/citations?user=gDJkRzwAAAAJ&hl)] 
 
+* Efficient One-Shot Pruning of Large Language Models with Low-Rank Approximation.
+[[pdf]](https://github.com/xyangyan/Eplra)
+[[code]](https://github.com/xyangyan/Eplra) <br>
+<i>IEEE International Conference on Systems, Man, and Cybernetics </i> (**SMC**), 2024. <b>CCF-C Conference</b>.
+
 * Data-Efficient Knowledge Distillation with Teacher Assistant-Based Dynamic Objective Alignment.
 [[pdf]](https://github.com/xyangyan/DeKD.git)
 [[code]](https://github.com/xyangyan/DeKD.git) <br>
-<i>International Conference on Computational Science </i> (**ICCS**), 2024. Preprint. <b>IIE-B Conference</b>.
+<i>International Conference on Computational Science </i> (**ICCS**), 2024. <b>IIE-B Conference</b>.
 
 
 * A Contrastive Self-distillation BERT with Kernel Alignment-Based Inference. 

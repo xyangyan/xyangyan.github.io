@@ -25,7 +25,7 @@ My research focuses on model compression and acceleration, specifically in the c
 <i>IEEE International Conference on Systems, Man, and Cybernetics </i> (**SMC**), 2024. <b>CCF-C Conference</b>.
 
 * Data-Efficient Knowledge Distillation with Teacher Assistant-Based Dynamic Objective Alignment.
-[[pdf]](https://github.com/xyangyan/DeKD.git)
+[[pdf]](https://www.researchgate.net/publication/381777246_Data-Efficient_Knowledge_Distillation_with_Teacher_Assistant-Based_Dynamic_Objective_Alignment)
 [[code]](https://github.com/xyangyan/DeKD.git) <br>
 <i>International Conference on Computational Science </i> (**ICCS**), 2024. <b>IIE-B Conference</b>.
 

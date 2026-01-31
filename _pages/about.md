@@ -55,7 +55,8 @@ Currently, I am committed to AI-based robo-advisory, leveraging LLMs to achieve 
 ## Academic Service
 Reviewers of Conferences:
 * ICASSP 2024, 2025, 2026.
-* IJCNN 2025.
+* IJCNN 2025, 2026.
+* WCCI 2026.
 * MLSP 2025.
   
 Reviewers of Journals:

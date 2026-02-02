@@ -22,6 +22,14 @@ Currently, I am committed to AI-based robo-advisory, leveraging LLMs to achieve 
 
 ## 📝 Selected Papers [[Full List](https://xyangyan.github.io/publications/)] [[Google Scholar](https://scholar.google.com/citations?user=gDJkRzwAAAAJ&hl)] 
 
+* Steering Representations, Safeguarding Privacy: A Cross-Modal Privacy Protection Method for Generative AI.
+[[pdf]](https://openreview.net/pdf?id=YNATI8WFqx) <br>
+<i>AAAI Conference on Artificial Intelligence </i> (**AAAI**), 2026. <b>CCF-A Conference</b>.
+
+* Controllable Narrative Rendering for Enhanced Assisted Writing.
+[[pdf]](https://easychair.org/conferences/?conf=cscwd2026) <br>
+<i>International Conference on Computer Supported Cooperative Work in Design </i> (**CSCWD**), 2026. <b>CCF-C Conference</b>.
+
 * Efficient One-Shot Pruning of Large Language Models with Low-Rank Approximation.
 [[pdf]](https://github.com/xyangyan/Eplra)
 [[code]](https://github.com/xyangyan/Eplra) <br>

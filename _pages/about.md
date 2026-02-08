@@ -28,11 +28,11 @@ Currently, I am committed to AI-based robo-advisory, leveraging LLMs to achieve 
 <i>AAAI Conference on Artificial Intelligence </i> (**AAAI**), 2026. <b>CCF-A Conference</b>.
 
 * S2tory: Story Spine Distillation for Movie Script Summarization.
-[[pdf]](https://cmt3.research.microsoft.com/pakdd2026) <br>
+[[coming]](https://cmt3.research.microsoft.com/pakdd2026) <br>
 <i>The 30th Pacific-Asia Conference on Knowledge Discovery and Data Mining </i> (**PAKDD**), 2026. <b>CCF-C Conference</b>.
 
 * Controllable Narrative Rendering for Enhanced Assisted Writing.
-[[pdf]](https://easychair.org/conferences/?conf=cscwd2026) <br>
+[[coming]](https://easychair.org/conferences/?conf=cscwd2026) <br>
 <i>International Conference on Computer Supported Cooperative Work in Design </i> (**CSCWD**), 2026. <b>CCF-C Conference</b>.
 
 * Efficient One-Shot Pruning of Large Language Models with Low-Rank Approximation.

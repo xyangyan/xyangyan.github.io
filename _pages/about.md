@@ -16,7 +16,7 @@ Currently, I am committed to AI-based robo-advisory, leveraging LLMs to achieve 
 
 
 # 🔥 News
-- *2026.02.08*: &nbsp;🎉🎉 A paper has been accepted by the 30th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD).
+- *2026.02.08*: &nbsp;🎉🎉 A paper has been accepted by Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD) 2026.
 - *2025.11.08*: &nbsp;🎉🎉 A paper has been accepted by AAAI Conference on Artificial Intelligence (AAAI) 2026.
 - *2024.03.30*: &nbsp;🎉🎉 Feeling tired and sleepy, it's time for a relaxing moment. ☞[FunAI](https://funai.vip)
 

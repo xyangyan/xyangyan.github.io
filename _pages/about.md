@@ -16,6 +16,7 @@ Currently, I am committed to AI-based robo-advisory, leveraging LLMs to achieve 
 
 
 # 🔥 News
+- *2026.02.08*: &nbsp;🎉🎉 A paper has been accepted by the 30th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD).
 - *2025.11.08*: &nbsp;🎉🎉 A paper has been accepted by AAAI Conference on Artificial Intelligence (AAAI) 2026.
 - *2024.03.30*: &nbsp;🎉🎉 Feeling tired and sleepy, it's time for a relaxing moment. ☞[FunAI](https://funai.vip)
 
@@ -25,6 +26,10 @@ Currently, I am committed to AI-based robo-advisory, leveraging LLMs to achieve 
 * Steering Representations, Safeguarding Privacy: A Cross-Modal Privacy Protection Method for Generative AI.
 [[pdf]](https://openreview.net/pdf?id=YNATI8WFqx) <br>
 <i>AAAI Conference on Artificial Intelligence </i> (**AAAI**), 2026. <b>CCF-A Conference</b>.
+
+* S2tory: Story Spine Distillation for Movie Script Summarization.
+[[pdf]](https://cmt3.research.microsoft.com/pakdd2026) <br>
+<i>The 30th Pacific-Asia Conference on Knowledge Discovery and Data Mining </i> (**PAKDD**), 2026. <b>CCF-C Conference</b>.
 
 * Controllable Narrative Rendering for Enhanced Assisted Writing.
 [[pdf]](https://easychair.org/conferences/?conf=cscwd2026) <br>

@@ -58,7 +58,7 @@ Currently, I am committed to AI-based robo-advisory, leveraging LLMs to achieve 
 
 
 ## 🎖 Honors and Awards
-* Third Place, ICASSP 2025 Grand Challenge, 2025. [[pdf]](/files/icassp2025_certificate.pdf)
+* Third Place, ICASSP 2025 Grand Challenge, 2025. [📄](/files/Third-Place-ICASSP.jpg) [🏆](/files/icassp2025_certificate.pdf)
 * PhD Graduate Study Scholarship First Prize, UCAS, 2022.
 * Merit Student, UCAS, 2022~2023.
 * Merit Student, UCAS, 2021~2022.

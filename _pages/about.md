@@ -21,7 +21,7 @@ Currently, I am committed to AI-based robo-advisory, leveraging LLMs to achieve 
 - *2024.03.30*: &nbsp;🎉🎉 Feeling tired and sleepy, it's time for a relaxing moment. ☞[FunAI](https://funai.vip)
 
 
-## 📝 Selected Papers [[Full List](https://xyangyan.github.io/publications/)] [[Google Scholar](https://scholar.google.com/citations?user=gDJkRzwAAAAJ&hl)] 
+## 📝 Selected Papers 
 
 * Steering Representations, Safeguarding Privacy: A Cross-Modal Privacy Protection Method for Generative AI.
 [[pdf]](https://openreview.net/pdf?id=YNATI8WFqx) <br>

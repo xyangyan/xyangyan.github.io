@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD graduate from the [Institute of Information Engineering](http://www.iie.ac.cn/), [Chinese Academy of Sciences (CAS)](https://www.cas.cn/), specializing in the research of large language models (LLMs).
+I am a Ph.D. graduate from the [Institute of Information Engineering](http://www.iie.ac.cn/), [Chinese Academy of Sciences (CAS)](https://www.cas.cn/).
 
-My research focuses on model compression and acceleration, specifically in the context of LLMs. I am interested in utilizing techniques like quantization, knowledge distillation, and pruning to improve computational efficiency and performance of LLMs. My ultimate goal is to achieve efficient language models.
+My research focuses on model compression and acceleration, aiming to improve the computational efficiency and performance of large-scale models.
 
-Currently, I am committed to AI-based robo-advisory, leveraging LLMs to achieve efficient financial trading.
+Currently, I am dedicated to AI-driven robo-advisory, applying model compression and acceleration techniques to enable efficient financial trading.
 
 
 # 🔥 News
@@ -62,6 +62,7 @@ Currently, I am committed to AI-based robo-advisory, leveraging LLMs to achieve 
 * PhD Graduate Study Scholarship First Prize, UCAS, 2022.
 * Merit Student, UCAS, 2022~2023.
 * Merit Student, UCAS, 2021~2022.
+* Second Prize, Huawei Software Elite Challenge (Regional Final), 2019
 
 ## 📖 Teaching
 * Machine Learning, Teaching Assistant, UCAS.

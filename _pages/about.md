@@ -62,7 +62,7 @@ Currently, I am dedicated to AI-driven robo-advisory, applying model compression
 * PhD Graduate Study Scholarship First Prize, UCAS, 2022.
 * Merit Student, UCAS, 2022~2023.
 * Merit Student, UCAS, 2021~2022.
-* Second Prize, Huawei Software Elite Challenge (Regional Final), 2019
+* Second Prize, Huawei Software Elite Challenge, 2019. [🏆](/files/huawei_certificate.pdf)
 
 ## 📖 Teaching
 * Machine Learning, Teaching Assistant, UCAS.
